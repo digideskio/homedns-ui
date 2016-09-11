@@ -1,0 +1,25 @@
+{
+  "name": "homedns-ui",
+  "homepage": "https://github.com/lamehost/homedns-ui",
+  "authors": [
+    "marco@lamehost.it"
+  ],
+  "description": "Web interface for a set of non-public web APIs on top of BIND",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "config.js"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "dynatable": "^0.3.1",
+    "moment": "^2.14.1",
+    "numeral": "^1.5.3"
+  }
+}
