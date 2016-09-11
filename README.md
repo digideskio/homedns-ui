@@ -16,7 +16,7 @@ This is the list of the current dependencies installed with bower:
 
 ## Configuration
 All the confguration paramter go to **config.js**.  
-So far the only neede parameter is:
+So far the only available parameter is:
  * **baseURL**: The URL of the web APIs.
 
 ## TODO
